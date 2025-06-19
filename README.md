@@ -1,1 +1,6 @@
 https://t.me/proxy?server=151.244.85.66&port=85&secret=ee00ff000fffff00fff5555ffffffffff56D656469612E737465616D706F77657265642E636F6D
+
+
+
+
+https://t.me/proxy?server=151.244.85.77&port=343&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
