@@ -1,6 +1,1 @@
-https://t.me/proxy?server=151.244.85.66&port=85&secret=ee00ff000fffff00fff5555ffffffffff56D656469612E737465616D706F77657265642E636F6D
-
-
-
-
-https://t.me/proxy?server=151.244.85.77&port=343&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D
+vless://ef09412d-fff2-4082-a32c-d5b000fa2ce3@swi.royalv.shop:58862?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#t.me%2FRoidChat
